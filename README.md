@@ -4,24 +4,24 @@ To practice aquiring, cleaning, formatting, augmenting, analyzing, and visualizi
 
 ### Data Sources:
 Google 'cdc chronic disease indicators data' - Filtered on Topic Alcohol
-[CDC Chronic Disease Indicators Data]
-(https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-CDI-/g4ie-h725)
+
+[CDC Chronic Disease Indicators Data](https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-CDI-/g4ie-h725)
 
 Census Tax Revenue - Filtered on Alcoholic Beverage Tax and Alcoholic Beverage Lic
-[Census Tax Revenue Data]
-(https://www.census.gov/programs-surveys/stc/data/datasets.All.html)
+
+[Census Tax Revenue Data](https://www.census.gov/programs-surveys/stc/data/datasets.All.html)
 
 Occupational Employment Statistics (OES) - Filtered on Rehabilitation Counselors & Mental Health and Substance Abuse Social Workers
-[OES Data]
-(https://www.bls.gov/oes/#data)
+
+[OES Data](https://www.bls.gov/oes/#data)
 
 FRED Homeownership Rate
-[FRED Data]
-(https://fred.stlouisfed.org/)
+
+[FRED Data](https://fred.stlouisfed.org/)
 
 Census All Ages in Poverty
-[Census Data]
-(https://www.census.gov/data-tools/demo/saipe/saipe.html)
+
+[Census Data](https://www.census.gov/data-tools/demo/saipe/saipe.html)
 
 #### Some potential next steps:
 1. Combine data in R and/or Tableau to investigate any relationships, trends, and/or insights.
