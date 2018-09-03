@@ -1,15 +1,15 @@
 ### Background/Objective:
-To practice aquiring, cleaning, formatting, augmenting, analyzing, and visualizing data, from various sources, for business intelligence and/or machine learning model development.  For this example, the topic of 'Alcohol' was filtered within the CDC Chronic Disease Data, but feel free to explore and review other topics within the CDC dataset. The following data sources where leverage.  
+To practice aquiring, cleaning, formatting, augmenting, analyzing, and visualizing data, from various sources, for business intelligence and/or machine learning model development.  For this example, the topic of 'Alcohol' was filtered within the CDC Chronic Disease Data, but feel free to explore and review other topics within the CDC dataset. The following data sources where leveraged.  
 
 
 ### Data Sources:
-Google 'cdc chronic disease indicators data' - Filtered on Topic Alcohol 
+Google 'cdc chronic disease indicators data' 
 [CDC Chronic Disease Indicators Data](https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-CDI-/g4ie-h725)
 
-Census Tax Revenue - Filtered on Alcoholic Beverage Tax and Alcoholic Beverage Lic
+Census Tax Revenue
 [Census Tax Revenue Data](https://www.census.gov/programs-surveys/stc/data/datasets.All.html)
 
-Occupational Employment Statistics (OES) - Filtered on Rehabilitation Counselors & Mental Health and Substance Abuse Social Workers
+Occupational Employment Statistics (OES)
 [OES Data](https://www.bls.gov/oes/#data)
 
 FRED Homeownership Rate
