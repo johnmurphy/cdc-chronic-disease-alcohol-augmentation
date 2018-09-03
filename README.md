@@ -3,9 +3,7 @@ To practice aquiring, cleaning, formatting, augmenting, analyzing, and visualizi
 
 
 ### Data Sources:
-Google 'cdc chronic disease indicators data' - Filtered on Topic Alcohol
-
-[CDC Chronic Disease Indicators Data](https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-CDI-/g4ie-h725)
+Google 'cdc chronic disease indicators data' - Filtered on Topic Alcohol \s\s [CDC Chronic Disease Indicators Data](https://data.cdc.gov/Chronic-Disease-Indicators/U-S-Chronic-Disease-Indicators-CDI-/g4ie-h725)
 
 Census Tax Revenue - Filtered on Alcoholic Beverage Tax and Alcoholic Beverage Lic
 
