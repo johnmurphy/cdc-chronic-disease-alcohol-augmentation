@@ -22,4 +22,4 @@ Census All Ages in Poverty
 1. Combine data in R and/or Tableau to investigate any relationships, trends, and/or insights.
 1. Are there any interesting trends? Correlations?
 1. Based on your observations are there any additional data elements that could potentially enhance the analysis?
-1. Group round-table discussion? What could be do differently? What could we do better? How do we want to proceed?
+1. Group round-table discussion? What could we do differently? What could we do better? How do we want to proceed?
