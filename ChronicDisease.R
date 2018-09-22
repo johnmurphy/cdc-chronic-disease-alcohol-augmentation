@@ -105,7 +105,7 @@ StateTaxAlcohol <- StateTaxData %>%
                    select(Year, State, Name, T10, T20) %>% # Select only what is needed
                    rename("Alcoholic Beverage Tax (T10)" = T10) %>% # Rename Column
                    rename("Alcoholic Beverage Lic (T20)" = T20) %>%
-                   slice(3:n()) # blank line aling with US Total
+                   slice(3:n()) # blank line along with US Total
 
 head(StateTaxAlcohol)
 str(StateTaxAlcohol)
